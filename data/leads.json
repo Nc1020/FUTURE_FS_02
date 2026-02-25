@@ -1,0 +1,62 @@
+[
+  {
+    "id": "321d0b35-741a-4a39-891b-8061780bd85a",
+    "name": "sales 2",
+    "email": "sales@gmail.com",
+    "phone": "1234569875",
+    "source": "Website Contact Form",
+    "status": "Contacted",
+    "assignedTo": "sales_2",
+    "createdBy": "public",
+    "createdAt": "2026-02-15T07:44:04.756Z",
+    "notes": []
+  },
+  {
+    "id": "ea7e5c87-2dd1-49c5-bbc9-7b1c309a909b",
+    "name": "Rahul",
+    "email": "rahul@gmail.com",
+    "phone": "9874589654",
+    "source": "Website Contact Form",
+    "status": "Converted",
+    "assignedTo": "sales_1",
+    "createdBy": "public",
+    "createdAt": "2026-02-15T08:57:50.356Z",
+    "notes": []
+  },
+  {
+    "id": "bf9b7432-c7fa-4a04-9d04-ebd1a3b3d368",
+    "name": "shiv",
+    "email": "shiv@gmail.com",
+    "phone": "",
+    "source": "Manual Entry",
+    "status": "Converted",
+    "assignedTo": "sales_2",
+    "createdBy": "admin_1",
+    "createdAt": "2026-02-15T08:58:51.650Z",
+    "notes": []
+  },
+  {
+    "id": "575fe900-125e-4a54-beae-5a4996f79881",
+    "name": "sales1",
+    "email": "sale1@gmail.com",
+    "phone": "7896541598",
+    "source": "Manual Entry",
+    "status": "Converted",
+    "assignedTo": "sales_1",
+    "createdBy": "sales_1",
+    "createdAt": "2026-02-15T08:59:39.383Z",
+    "notes": []
+  },
+  {
+    "id": "937bde00-9cd1-4261-8512-88cbbfe8c311",
+    "name": "radha",
+    "email": "radha@gmail.com",
+    "phone": "9874563278",
+    "source": "Website Contact Form",
+    "status": "New",
+    "assignedTo": null,
+    "createdBy": "public",
+    "createdAt": "2026-02-25T18:36:34.267Z",
+    "notes": []
+  }
+]
